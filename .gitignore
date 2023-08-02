@@ -1,6 +1,4 @@
-api/.env
-client/.env
+.env
 .idea
-api/node_modules
-client/node_modules
-api/uploads/*
+node_modules
+
